@@ -27,7 +27,7 @@ data: {
                      proyectos grupales e individuales y metodología SCRUM. "
         };
         currently_learning: [English, TypeScript, Blockchain];
-        hobbies: ["Gaming", "tenis", "futbol"]
+        hobbies: ["Gaming", "Tenis", "Futbol", "Sing"]
 };
 ```
 <h2> 🚀  Algunas herramientas que he usado y aprendido</h2> 
