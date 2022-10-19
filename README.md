@@ -17,12 +17,22 @@
 </p>
 
 ```yaml 
-name: Francisco 
+data: {
+        name: Francisco Alexis Leyes Campoy;
+        located_in: Buenos Aires, Argentina;
+        current_job: Full-Stack Developer;
+        education: {
+                     Plataforma5_Coding_Bootcamp: "Curso intensivo (800 horas) en el que aprendí las tecnologías más
+                     requeridas de la industria mediante clases, lectures, wokshops en pair programming, 
+                     proyectos grupales e individuales y metodología SCRUM. "
+        };
+        currently_learning: [English, TypeScript, Blockchain];
+        hobbies: ["Gaming", "tenis", "futbol"]
+};
 ```
 <h2> 🚀  Algunas herramientas que he usado y aprendido</h2> 
+
 <p align="center"> 
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="80" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="pSQL" width="80" height="80"/> 
