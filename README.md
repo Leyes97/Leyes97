@@ -30,7 +30,7 @@ data: {
         hobbies: ["Gaming", "Tenis", "Futbol", "Sing"]
 };
 ```
-<h2> 🚀  Algunas herramientas que he usado y aprendido</h2> 
+<h2>   Algunas herramientas que he usado y aprendido</h2> 
 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
