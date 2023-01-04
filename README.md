@@ -31,7 +31,7 @@ data: {
 };
 ```
 <h2>   Algunas herramientas que he usado y aprendido</h2> 
-
+s
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="80" height="80"/> 
