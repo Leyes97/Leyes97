@@ -55,7 +55,3 @@ data: {
 </p>
 s
 s
-s
-s
-s
-s
