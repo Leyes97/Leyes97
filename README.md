@@ -26,8 +26,8 @@ data: {
                      requeridas de la industria mediante clases, lectures, wokshops en pair programming, 
                      proyectos grupales e individuales y metodología SCRUM. "
         };
-        currently_learning: [English, TypeScript, Blockchain];
-        hobbies: ["Gaming", "Tenis", "Futbol", "Sing"]
+        currently_learning: [English];
+        hobbies: ["Gaming", "Tenis", "Futbol"]
 };
 ```
 <h2>   Algunas herramientas que he usado y aprendido</h2> 
